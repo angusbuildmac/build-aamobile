@@ -1,5 +1,5 @@
-# Xamarin CI Sample
-
+# Build Scripts for aamobile
+# This was initially forked from xamarin-ci-sample, and is the build script for aamobile
 This is a sample of how to set up automated builds for Xamarin.iOS and Xamarin.Android apps, including running UI tests locally and in TestCloud, and packaging the apps for distribution. The build system used here is [FAKE](https://github.com/fsharp/FAKE).
 
 The TipCalc sample app used here was borrowed with love from [Xamarin's samples](https://github.com/xamarin/xamarin-forms-samples/tree/master/TipCalc/TipCalc). Minor updates were made for testability, but that's it.
